@@ -1,5 +1,5 @@
 ---
-title: "Language Models Implement Simple Word2Vec-style Vector Arithmetic"
+title: "A Mechanism for Solving Relational Tasks in Transformer Language Models"
 collection: publications
 permalink: 
 date: 2023-05-25

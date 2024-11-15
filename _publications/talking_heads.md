@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 date: 2024-06-10
 authors: "Jack Merullo, Carsten Eickhoff, Ellie Pavlick"
-venue: 'preprint'
+venue: 'Nuerips'
 paperurl: 'https://arxiv.org/abs/2406.09519'
 citation: ''
 ---
